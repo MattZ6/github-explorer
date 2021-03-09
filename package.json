@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "github-explorer",
+  "description": "Explorador de códigos do GitHub",
+  "version": "0.0.0",
+  "author": {
+    "name": "Matheus Felipe Zanin",
+    "url": "https://github.com/mattz6",
+    "email": "matt_z6@hotmail.com"
+  },
+  "homepage": "https://github.com/mattz6/github-explorer",
+  "repository": "https://github.com/mattz6/github-explorer",
+  "bugs": "https://github.com/mattz6/github-explorer/issues",
+  "main": "index.js",
+  "license": "MIT"
+}
