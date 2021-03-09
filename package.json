@@ -12,5 +12,8 @@
   "repository": "https://github.com/mattz6/github-explorer",
   "bugs": "https://github.com/mattz6/github-explorer/issues",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
