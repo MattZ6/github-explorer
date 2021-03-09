@@ -15,5 +15,9 @@
   "license": "MIT",
   "devDependencies": {
     "git-commit-msg-linter": "^3.0.0"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }
