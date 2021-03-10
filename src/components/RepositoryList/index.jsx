@@ -2,6 +2,8 @@ import { useState } from 'react';
 
 import RepositoryItem from './components/RepositoryItem';
 
+import './styles.scss';
+
 function RepositoryList() {
   const [repositories, setRepositories] = useState([
     {

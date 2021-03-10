@@ -1,3 +1,5 @@
+import './styles.scss';
+
 function RepositoryItem({ repository: { name, description, url }  }) {
   return (
     <li>
