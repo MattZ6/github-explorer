@@ -1,14 +1,14 @@
 import './styles.scss';
 
-function RepositoryItem({ repository: { name, description, url }  }) {
+function RepositoryItem({ repository: { name, description, html_url }  }) {
   return (
     <li>
       <strong>{name}</strong>
       <p>{description}</p>
 
       {
-        url && (
-          <a href={url} target="_blank">
+        html_url && (
+          <a href={html_url} target="_blank">
             Acessar repositório
           </a>
         )
